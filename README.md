@@ -1,4 +1,4 @@
-# Ruby on Rails capstone project - Budget app
+# Project - Budget app
 
 ## Description
 
